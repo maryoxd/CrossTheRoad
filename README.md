@@ -21,6 +21,8 @@
    ```bash
    git clone https://github.com/yourusername/CrossTheRoad.git
    cd CrossTheRoad
-2. javac CrossTheRoad.java
+2. **Compile and run the game:**
+   ```bash
+   javac CrossTheRoad.java
    java CrossTheRoad
 
