@@ -26,3 +26,14 @@
    javac CrossTheRoad.java
    java CrossTheRoad
 
+## 📸 Screenshots
+Here are some screenshots of the game in action:
+
+### 🏁Level 1
+![Level 1](screens/CTR1.png)
+
+### 🚗 Level 2
+![Level 2](screens/CTR3.png)
+
+### 🏆 Level 3
+![Level 3](screens/CTR2.png)
