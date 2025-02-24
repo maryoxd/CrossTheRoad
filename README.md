@@ -19,7 +19,7 @@
 ## 🚀 How to Run
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/CrossTheRoad.git
+   git clone https://github.com/maryoxd/CrossTheRoad.git
    cd CrossTheRoad
 2. **Compile and run the game:**
    ```bash
