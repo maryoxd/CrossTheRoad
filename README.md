@@ -29,11 +29,18 @@
 ## 📸 Screenshots
 Here are some screenshots of the game in action:
 
-### 🏁Level 1
-![Level 1](screens/CTR1.jpg)
+<p align="center">
+  <img src="screens/CTR1.jpg" width="600">
+</p>
+<h3 align="center">🏁 Level 1</h3>
 
-### 🚗 Level 2
-![Level 2](screens/CTR3.jpg)
+<p align="center">
+  <img src="screens/CTR3.jpg" width="600">
+</p>
+<h3 align="center">🚗 Level 2</h3>
 
-### 🏆 Level 3
-![Level 3](screens/CTR2.jpg)
+<p align="center">
+  <img src="screens/CTR2.jpg" width="600">
+</p>
+<h3 align="center">🏆 Level 3</h3>
+
